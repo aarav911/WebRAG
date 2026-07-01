@@ -92,14 +92,17 @@ export class AdvancedCrawler {
     try {
       const html = await this.#fetchHtml(url);
       const links = this.#extractLinks(html, url);
+      const dom = new JSDOM(html);
 
       // Store result (example: storing first 100 chars)
       this.#results.push({ 
         url, 
         depth, 
         title: new JSDOM(html).window.document.title,
-        snippet: html.substring(0, 100) 
+        snippet: dom.serialize()
       });
+
+      
 
       // Add new links to queue
       for (const link of links) {
@@ -148,11 +151,11 @@ const crawler = new AdvancedCrawler('https://learn.microsoft.com/en-us/windows/w
 try {
   console.log('Starting crawl...');
   const data = await crawler.crawl();
-//   await fs.writeFile(
-//     'crawl_results.json',
-//     JSON.stringify(data, null, 2),
-//     'utf-8'
-//   );
+  await fs.writeFile(
+    'crawl_results.json',
+    JSON.stringify(data, null, 2),
+    'utf-8'
+  );
 
   console.log(`Visited ${data.length} pages.`);
   // console.log('Results:', data); // Uncomment to see data
