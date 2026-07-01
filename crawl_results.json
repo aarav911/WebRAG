@@ -1,0 +1,314 @@
+[
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/",
+    "depth": 0,
+    "title": "Programming reference for the Win32 API - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-sidecar-left   show-table-of-contents landing show-"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/#main",
+    "depth": 1,
+    "title": "Programming reference for the Win32 API - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-sidecar-left   show-table-of-contents landing show-"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/#",
+    "depth": 1,
+    "title": "Programming reference for the Win32 API - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-sidecar-left   show-table-of-contents landing show-"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/",
+    "depth": 1,
+    "title": "Build desktop Windows apps using the Win32 API - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-sidecar-left   show-table-of-contents landing show-"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_controls/",
+    "depth": 1,
+    "title": "Windows Controls - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_menurc/",
+    "depth": 1,
+    "title": "Menus and Other Resources - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_winmsg/",
+    "depth": 1,
+    "title": "Windows and Messages - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_shell/",
+    "depth": 1,
+    "title": "The Windows Shell - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_intl/",
+    "depth": 1,
+    "title": "Internationalization for Windows Applications - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_direct2d/",
+    "depth": 1,
+    "title": "Direct2D - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_winauto/",
+    "depth": 1,
+    "title": "Windows Accessibility Features - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_directml/",
+    "depth": 1,
+    "title": "DirectML - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_direct3d12/",
+    "depth": 1,
+    "title": "Direct3D 12 Graphics - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_direct3d11/",
+    "depth": 1,
+    "title": "Direct3D 11 Graphics - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_direct3ddxgi/",
+    "depth": 1,
+    "title": "DXGI - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_gdi/",
+    "depth": 1,
+    "title": "Windows GDI - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_gdiplus/",
+    "depth": 1,
+    "title": "GDI+ - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_wic/",
+    "depth": 1,
+    "title": "Windows Imaging Component - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_multimedia/",
+    "depth": 1,
+    "title": "Windows Multimedia - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_mf/",
+    "depth": 1,
+    "title": "Microsoft Media Foundation - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_audio/",
+    "depth": 1,
+    "title": "Audio Devices DDI Reference - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_xaudio2/",
+    "depth": 1,
+    "title": "XAudio2 APIs - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_coreaudio/",
+    "depth": 1,
+    "title": "Core Audio APIs - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_bits/",
+    "depth": 1,
+    "title": "Background Intelligent Transfer Service - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_backup/",
+    "depth": 1,
+    "title": "Backup - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_fs/",
+    "depth": 1,
+    "title": "Data Access and Storage - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_stg/",
+    "depth": 1,
+    "title": "Structured Storage - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_cloudapi/",
+    "depth": 1,
+    "title": "Cloud Filter API - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_dataxchg/",
+    "depth": 1,
+    "title": "Data Exchange - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_devinst/",
+    "depth": 1,
+    "title": "Device and Driver Installation Reference - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_kernel/",
+    "depth": 1,
+    "title": "Kernel-Mode Driver Reference - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_vstor/",
+    "depth": 1,
+    "title": "Virtual Storage - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_display/",
+    "depth": 1,
+    "title": "Display Devices Reference - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_buses/",
+    "depth": 1,
+    "title": "USB driver reference - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_storage/",
+    "depth": 1,
+    "title": "Storage driver DDI reference - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_hid/",
+    "depth": 1,
+    "title": "Human Interface Devices Reference - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_bluetooth/",
+    "depth": 1,
+    "title": "Bluetooth - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_netmgmt/",
+    "depth": 1,
+    "title": "Network Management - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_iphlp/",
+    "depth": 1,
+    "title": "IP Helper - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_http/",
+    "depth": 1,
+    "title": "HTTP Server API - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_winhttp/",
+    "depth": 1,
+    "title": "Windows HTTP Services (WinHTTP) - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_wininet/",
+    "depth": 1,
+    "title": "Windows Internet - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_rpc/",
+    "depth": 1,
+    "title": "Remote Procedure Call (RPC) - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_security/",
+    "depth": 1,
+    "title": "Security and Identity - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_nap/",
+    "depth": 1,
+    "title": "Network Access Protection - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_winsock/",
+    "depth": 1,
+    "title": "Windows Sockets 2 - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_parcon/",
+    "depth": 1,
+    "title": "Parental Controls - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_secbiomet/",
+    "depth": 1,
+    "title": "Windows Biometric Framework - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_nps/",
+    "depth": 1,
+    "title": "Network Policy Server - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_etw/",
+    "depth": 1,
+    "title": "Event Tracing - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_ndf/",
+    "depth": 1,
+    "title": "Network Diagnostics Framework - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  },
+  {
+    "url": "https://learn.microsoft.com/en-us/windows/win32/api/_tbs/",
+    "depth": 1,
+    "title": "TPM Base Services - Win32 apps | Microsoft Learn",
+    "snippet": " <!DOCTYPE html>\n\t\t<html\n\t\t\tclass=\"layout layout-holy-grail   show-table-of-contents conceptual show"
+  }
+]
